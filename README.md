@@ -1,7 +1,7 @@
 ## Hello i'm Gualberto analyst and developer jr
 
 <div align="center">
-  - 🔭 I’m currently working witch back-end and front-end for ASP.NET Core
+  - 🔭 I’m currently working witch Full Stack for ASP.NET Core
   <br>
   - 🌱 Currently learning JavaScript
 </div>
