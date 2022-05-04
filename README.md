@@ -1,4 +1,4 @@
-## Hello i'm Gualberto analyst and developer jr
+## Hello i'm Gualberto! Analyst and developer jr
 
 <div align="center">
   - 🔭 I’m currently working witch Full Stack for ASP.NET Core
